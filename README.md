@@ -17,7 +17,7 @@
 
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM20yMm4yYXlhdXBrczltYzhvanprNTNudmd6YndxYWpxZnBnOTN2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" width="300" height="300"/>
-</div>
+</div>  
 
 ### :man_technologist: О себе:
 Я Фронтенд-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
@@ -26,4 +26,4 @@
 
 - :zap: В свободное время люблю читать книги и статьи, а также изучать и осваивать новые технологии и навыки, по своему направлению
 
-- :mailbox: Со мной можно связаться: 
+- :mailbox: Со мной можно связаться: [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://web.telegram.org/k/#@aleksey20054)
