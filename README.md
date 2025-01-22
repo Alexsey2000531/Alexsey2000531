@@ -49,5 +49,10 @@
 </div>
 
 ### :fire: Моя статистика:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=https://github.com/Alexsey2000531&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http:/streak-stats.demolab.com?user=Alexsey2000531&theme=dark&border_radius=5&locale=ru&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=500&card_height=200&cache=1)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsey2000531&layout=compact&theme=vision-friendly-dark&card_width=400&card_height=500)](https://github.com/anuraghazra/github-readme-stats)
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexsey2000531&show_icons=true&theme=radical)
+
 
